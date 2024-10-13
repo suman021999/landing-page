@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Delius+Unicase:wght@400;700&display=swap');
+
+.fox{
+    font-family: "Delius Unicase", cursive;
+}
+
+.clr{
+    clear: both;
+}
+
+
